@@ -4,7 +4,7 @@ import type { PromiseOrValue } from "./common";
 import type {
   XPNftHtsClaims,
   XPNftHtsClaimsInterface,
-} from ".XPNftHtsClaims";
+} from "./XPNftHtsClaims";
 
 const _abi = [
   {
