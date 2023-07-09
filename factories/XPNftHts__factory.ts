@@ -1,6 +1,6 @@
 import { Signer, utils, Contract, ContractFactory, Overrides } from "ethers";
 import type { Provider, TransactionRequest } from "@ethersproject/providers";
-import type { PromiseOrValue } from "../../common";
+import type { PromiseOrValue } from "./common";
 import type { XPNftHts, XPNftHtsInterface } from "./XPNftHts";
 
 const _abi = [
