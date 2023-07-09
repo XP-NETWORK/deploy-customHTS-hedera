@@ -1,2 +1,3 @@
-# deploy-customHTS-hedera
-A repository for deployment of custom HST compatible NFT contracts
+# CustomHTS smart contract deployment
+
+A repository for the deployment of custom HST-compatible NFT contracts
