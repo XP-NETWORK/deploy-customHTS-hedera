@@ -1,0 +1,13 @@
+{
+  "name": "deploy-customHTS-hedera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XP-NETWORK/deploy-customHTS-hedera.git",
+  "author": "Dima Brook <dima@xp.network>",
+  "license": "MIT",
+  "dependencies": {
+    "@hashgraph/hethers": "^1.2.6",
+    "dotenv": "^16.3.1",
+    "ethers": "5.7.2"
+  }
+}
